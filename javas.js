@@ -59,7 +59,7 @@ ScrollReveal().reveal('.home-content .heading',{ origin: 'top'});
 
 /*=========================typed  js ==========================*/
 const typed = new Typed('.multiple-text',{
-    strings: ['Frontend Developer', 'full stack Developer','Data Anlistick'],
+    strings: ['Data Analytics', 'full stack Developer','Data Anlistick'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
